@@ -2,6 +2,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Good_Coder_3231?ext=contest)
 
-![CodeChef Rating Graph](https://codechef-rating-api.vercel.app/graph?username=akshat_codes1)
+![CodeChef](https://cp-logo.vercel.app/codechef/akshat_codes1)
 
 
