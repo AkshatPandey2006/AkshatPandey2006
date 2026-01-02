@@ -56,13 +56,13 @@ isolated private sessions.
 
 ### 👨‍💻 Work Experience
 
-**DSA/CP Lead @ Google Developers Group**
+**DSA/CP Lead @ Google Developers Group |**
 *Sep 2024 - Aug 2025*
 * Delivered weekly LeetCode DSA workshops to upskill 40+ students in problem-solving techniques, while
 simultaneously spearheading a 10-member team to develop the official GDG website and organise 5+ technical
 events for over 500 attendees.
 
-**Software Engineer Intern @ MyCBSEguide**
+**Software Engineer Intern @ MyCBSEguide |**
 *May 2023 - Jul 2023*
 * Managed 270,000 MCQ questions in Python and Django to optimise the “Topic-Wise Test Generation”
 feature. Reducing test-creation time by 50% for 12,000+ teachers. Achieved the highest score (95%) in the
