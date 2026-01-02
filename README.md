@@ -20,7 +20,7 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 * 🚀 **ICPC Prelims 2025:** All India Rank 1443 (Institute Topper).
 * 🌐 **Meta Hacker Cup:** Global Rank 2238 (Round 2), Global Rank 3719 (Round 1).
 * 🧠 **Code Clash '25:** Rank 11/6399 by solving DSA-based problems on Unstop
-* 💻 **Code Carnage '25:** Rank 23/1469 a DSA and CS fundamental contest on GFG.
+* 💻 **Code Carnage '25:** Rank 23/1469 in a DSA and CS fundamental contest on GFG.
 * 🎯 **Intra College Coding Events:** 4x Rank 2, 2x Rank 3 and 2x Rank 4.
 
 ---
