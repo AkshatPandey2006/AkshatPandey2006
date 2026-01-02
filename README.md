@@ -15,7 +15,7 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 | **Codeforces** | **Expert** (Peak: 1624) | Best Contest Rank: 598 |
 
 **Key Highlights:**
-* 🎉 **Selected for Amazon ML Summer School 2025** (Top 3% of batch).
+* 🎉 **Selected for Amazon ML Summer School 2025** (Top 3% of National Pool).
 * 🥇 **Internal SIH Hackathon:** Rank 4 out of 640 teams.
 * 🚀 **ICPC Prelims 2025:** All India Rank 1443 (Institute Topper).
 * 🌐 **Meta Hacker Cup:** Global Rank 2238 (Round 2), Global Rank 3719 (Round 1).
