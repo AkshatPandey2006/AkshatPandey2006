@@ -2,7 +2,7 @@
 
 # Hi there, I'm Akshat Pandey! 👋
 
-I am a 3rd-year CS undergrad at Bennett University, with a strong technical background in data structures, algorithms, software engineering (full stack, system design) and competitive programming. Here is my resume-style GitHub readme:
+I am a 3rd-year CS undergrad at Bennett University, with a strong technical background in DSA, software engineering (full stack, system design), machine learning and competitive programming. Here is my resume-style GitHub readme:
 
 ---
 
