@@ -38,19 +38,16 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 ### 🚀 Featured Projects
 
 **Streamify:** [Repo](https://github.com/AkshatPandey2006/Stream_Video_and_Chat)
-* Engineered a MERN-based social learning platform integrating Stream SDK for real-time video
-conferencing and chat, while utilizing TanStack Query to optimize state management and data synchronization
-for seamless user interactions.
+* Engineered a MERN-based social learning platform integrating Stream SDK for real-time video conferencing
+and chat, using TanStack Query for optimized state management and seamless data synchronization.
 
 **Deepfake Detection System:** [Repo](https://github.com/AkshatPandey2006/Deepfake_Detection)
-* Developed a deep learning–based video deepfake detection system using ResNeXt and LSTM, leveraging
-transfer learning to extract spatial features and model temporal dependencies across video frames, achieving up
-to 93.6% accuracy on large-scale datasets.
+* Developed a deep learning-based video deepfake detection system using ResNeXt and LSTM with transfer
+learning to capture spatial and temporal features, achieving up to 93.6% accuracy on large-scale datasets.
 
 **Collab Code:** [Repo](https://github.com/AkshatPandey2006/Real_Code_Editor)
-* Developed a scalable live coding environment mainly with React and Node.js, implementing Socket.IO to
-ensure low-latency state synchronization, enabling multiple users to write and edit code simultaneously within
-isolated private sessions.
+* Built a scalable live coding environment with React and Node.js, using Socket.IO for low-latency real-time
+synchronization, enabling multiple users to collaborate in private sessions.
 
 ---
 
@@ -58,15 +55,14 @@ isolated private sessions.
 
 **DSA/CP Lead @ Google Developers Group |**
 *Sep 2024 - Aug 2025*
-* Delivered weekly LeetCode DSA workshops to upskill 40+ students in problem-solving techniques, while
-simultaneously spearheading a 10-member team to develop the official GDG website and organise 5+ technical
-events for over 500 attendees.
+* Delivered weekly LeetCode DSA workshops to upskill 40+ students in problem-solving, while leading a
+10-member team to develop the official GDG website and organise 5+ technical events for 500+ attendees.
 
 **Software Engineer Intern @ MyCBSEguide |**
 *May 2023 - Jul 2023*
-* Managed 270,000 MCQ questions in Python and Django to optimise the “Topic-Wise Test Generation”
-feature. Reducing test-creation time by 50% for 12,000+ teachers. Achieved the highest score (95%) in the
-employability test by demonstrating strong aptitude, reasoning, and problem-solving skills.
+* Managed 270,000 MCQ questions using Python and Django to optimise the “Topic-Wise Test Generation”
+feature, reducing test-creation time by 50% for 12,000+ teachers. Achieved the highest score (95%) in the
+employability test, covering aptitude, reasoning and problem-solving.
 
 ---
 
