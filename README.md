@@ -38,14 +38,13 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 ### 🚀 Featured Projects
 
 **GetMock AI:** [Repo](https://github.com/AkshatPandey2006/GetMock-AI)
-* Developed an AI Interviewer, which can take personalised mock interviews from the given resume and give detailed feedback. Used React, Node.js, Express.js and multiple APIs like Groq SDK, Llama 3.1 and Whisper v3.
+* Developed a 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲𝗱 𝗔𝗜 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝗲𝗿, which also generates a 𝗳𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗿𝗲𝗽𝗼𝗿𝘁. Used 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲.𝗷𝘀 and APIs like 𝗚𝗿𝗼𝗾 𝗦𝗗𝗞, 𝗟𝗹𝗮𝗺𝗮 𝟯.𝟭 and 𝗪𝗵𝗶𝘀𝗽𝗲𝗿 𝘃𝟯. Gained 𝟲𝟬+ 𝗼𝗿𝗴𝗮𝗻𝗶𝗰 𝘂𝘀𝗲𝗿𝘀 in the first month.
 
 **Collab Code:** [Repo](https://github.com/AkshatPandey2006/Real_Code_Editor)
-* Built a real-time collaborative code editor using React, Node.js, and Socket.IO, enabling multi-user synchronous editing and sandboxed code execution with ephemeral in-memory sessions and sub-30ms update latency.
+* Built a 𝗿𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 code editor using 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗦𝗼𝗰𝗸𝗲𝘁.𝗜𝗢 & 𝗣𝗶𝘀𝘁𝗼𝗻 𝗔𝗣𝗜, with 𝗰𝗼𝗱𝗲 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 and 𝘀𝘂𝗯-𝟯𝟬𝗺𝘀 𝗹𝗮𝘁𝗲𝗻𝗰𝘆. Gained 𝟱𝟬+ 𝘂𝘀𝗲𝗿𝘀, who created 𝟭𝟬𝟬+ 𝘀𝗲𝘀𝘀𝗶𝗼𝗻𝘀 in the first week.
 
 **Streamify:** [Repo](https://github.com/AkshatPandey2006/Stream_Video_and_Chat)
-* Engineered a MERN-based social learning platform integrating Stream SDK for real-time video conferencing
-and chat, using TanStack Query for optimized state management and seamless data synchronization.
+* Engineered a 𝗠𝗘𝗥𝗡-𝗯𝗮𝘀𝗲𝗱 𝘀𝗼𝗰𝗶𝗮𝗹 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 integrating 𝗦𝘁𝗿𝗲𝗮𝗺 𝗦𝗗𝗞 for real-time video conferencing and chat, using 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 𝗤𝘂𝗲𝗿𝘆 for optimized state management and seamless data synchronization.
 
 ---
 
