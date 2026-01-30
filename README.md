@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatpandey2006&label=Profile%20views&color=0e75b6&style=flat" alt="akshatpandey2006" /> </p>
-
 # Hi there, I'm Akshat Pandey! 👋
 
 I am a 3rd-year CS undergrad at Bennett University, with a strong technical background in DSA, software engineering (full stack, system design), machine learning and competitive programming. Here is my resume-style GitHub readme:
