@@ -26,9 +26,8 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 ### 🛠️ Skills
 * **Core Skills:** Data Structures, Algorithms, Machine Learning, System Design
 * **Programming:** C++, Java, Python, JavaScript
-* **Web Development:** React, Node.js, Express.js
+* **Web Development:** React, Node.js, Express.js, Tailwind CSS, Bootstrap
 * **Databases:** MongoDB, SQL
-* **UI & Styling:** Tailwind CSS, Bootstrap
 * **CS Fundamentals:** OS, OOP, DBMS, Computer Network
 
 ---
