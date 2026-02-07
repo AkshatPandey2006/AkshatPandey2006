@@ -50,7 +50,7 @@ I am a 3rd-year CS undergrad at Bennett University, with a strong technical back
 **DSA/CP Lead @ Google Developers Group |**
 *Sep 2024 - Aug 2025*
 * Delivered weekly LeetCode DSA workshops to upskill 40+ students in problem-solving, while leading a
-10-member team to develop the official GDG website and organize 5+ technical events for 500+ attendees.
+10-member team to develop the official GDG website and organise 5+ technical events for 500+ attendees.
 
 **Software Engineer Intern @ MyCBSEguide |**
 *May 2023 - Jul 2023*
