@@ -6,5 +6,4 @@
 - Placement Coordinator @ Bennett University
 
 apart from this, you might see me running a 5k or playing chess.
-
 connect: akshat2006pandey@gmail.com ✌️
