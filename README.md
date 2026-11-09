@@ -1,5 +1,9 @@
-shipping things at myCBSEguide, specifically for the teacher vertical product examin8 test generator. I spend way too much time on cp (codeforces expert, codechef 5 star, lc knight). somehow managed to get team rank 4/640 in internal SIH. built some AI & full stack projects, one of them got 250+ users. spent some time at amazon ml school. institute best at icpc prelims, meta hackercup r2 rank 2238.
+- SDE Intern @ myCBSEguide
+- Mentee @ Amazon ML School
+- CF Expert, CodeChef 5 Star, LC Knight
+- Full Stack & AI (personal projects with 500+ users)
+- DSA/CP Lead @ GDG Bennett University
+- Placement Coordinator @ Bennett University
 
-I was the dsa/cp lead @ gdg and a member of the placement cell of my college. got multiple podiums in college tech events. apart from tech, I will be busy playing chess or running a 5k.
-
+apart from this, you might see me running a 5k or playing chess.
 connect: akshat2006pandey@gmail.com ✌️
